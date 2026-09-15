@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目接力 Repo Relay"
+  short_description: "新机安装开发环境、GitHub 验证授权和跨设备协作上传，支持 zhyq 上线流程"
+  default_prompt: "使用 $repo-relay 帮我在新设备接手 GitHub 项目，验证写权限、补齐环境并启动，修改完成后按团队流程上传。"
